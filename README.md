@@ -11,7 +11,7 @@
 - GitHub Actions (CI/CD)
 - SQL и API тесты
 
-## Как запустить
+## Запустить
 ```bash
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
@@ -19,9 +19,3 @@ pip install -r requirements.txt
 pytest -v
 ```
 
-## Почему этот проект релевантен Amanat Insurance
-- Реальный демо-сайт для тестов
-- UI тесты: логин, корзина, заказ
-- API и SQL примеры
-- Page Object для поддержки кода
-- CI/CD конфигурация (GitHub Actions)
